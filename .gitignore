@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+package-lock.json
+.env.local
+.env.*
+
+# Build output
+.next/
+out/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Tailwind
+tailwind.config.js.backup
